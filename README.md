@@ -29,8 +29,7 @@ WaterVQA数据集的构建流程在借鉴通用领域数据集标注经验的基
 
 
 ## 3. 数据集下载
-通过网盘分享的文件：WaterVQA.zip
-链接: https://pan.baidu.com/s/1gXACiRPJyAl9m7kU5gGILw?pwd=wm3k 提取码: wm3k
+假期团队正在做 WaterQA 数据集的升级和完善，我们会及时更新链接，请届时下载，谢谢。
 
 ## 4. 数据集使用须知
 
